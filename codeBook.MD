@@ -5,7 +5,10 @@ This code book summarizes the resulting data fields in tidy.txt.
 Identifiers
 
 subject - The ID of the subject
+
 activity - The type of activity performed when the respective measurements were drawm
+
+
 
 Activity Labels
 
@@ -20,6 +23,9 @@ SITTING (Factor 4): subject was sitting during the test
 STANDING (Factor 5): subject was standing during the test
 
 LAYING (Factor 6): subject was laying down during the test
+
+
+
 
 
 Measurements
